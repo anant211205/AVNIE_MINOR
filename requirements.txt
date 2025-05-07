@@ -3,5 +3,5 @@ ultralytics==8.1.2
 easyocr==1.7.2
 pyzbar==0.1.9
 pandas==2.2.0
-opencv-python==4.11.0.86
+opencv-python-headless==4.8.0.76
 pillow==10.2.0 
